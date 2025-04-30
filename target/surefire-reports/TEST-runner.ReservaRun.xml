@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="runner.ReservaRun" time="0.148" tests="1" errors="0" skipped="0" failures="1">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="runner.ReservaRun" time="0.142" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="23"/>
     <property name="sun.cpu.isalist" value="amd64"/>
@@ -15,7 +15,7 @@
     <property name="user.country" value="BR"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-23\bin"/>
-    <property name="sun.java.command" value="C:\Users\VINICIUS\AppData\Local\Temp\surefire7219739980021146964\surefirebooter-20250429171216122_3.jar C:\Users\VINICIUS\AppData\Local\Temp\surefire7219739980021146964 2025-04-29T17-12-15_985-jvmRun1 surefire-20250429171216122_1tmp surefire_0-20250429171216122_2tmp"/>
+    <property name="sun.java.command" value="C:\Users\VINICIUS\AppData\Local\Temp\surefire6791414728173996396\surefirebooter-20250430192633120_3.jar C:\Users\VINICIUS\AppData\Local\Temp\surefire6791414728173996396 2025-04-30T19-26-32_963-jvmRun1 surefire-20250430192633120_1tmp surefire_0-20250430192633120_2tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="test" value="runner.ReservaRun"/>
     <property name="surefire.test.class.path" value="C:\Users\VINICIUS\Documents\NetBeansProjects\TddBdd\target\test-classes;C:\Users\VINICIUS\Documents\NetBeansProjects\TddBdd\target\classes;C:\Users\VINICIUS\.m2\repository\io\cucumber\cucumber-java\7.22.1\cucumber-java-7.22.1.jar;C:\Users\VINICIUS\.m2\repository\io\cucumber\cucumber-core\7.22.1\cucumber-core-7.22.1.jar;C:\Users\VINICIUS\.m2\repository\io\cucumber\cucumber-gherkin\7.22.1\cucumber-gherkin-7.22.1.jar;C:\Users\VINICIUS\.m2\repository\io\cucumber\cucumber-gherkin-messages\7.22.1\cucumber-gherkin-messages-7.22.1.jar;C:\Users\VINICIUS\.m2\repository\io\cucumber\gherkin\32.1.1\gherkin-32.1.1.jar;C:\Users\VINICIUS\.m2\repository\io\cucumber\messages\27.2.0\messages-27.2.0.jar;C:\Users\VINICIUS\.m2\repository\io\cucumber\testng-xml-formatter\0.3.1\testng-xml-formatter-0.3.1.jar;C:\Users\VINICIUS\.m2\repository\io\cucumber\query\13.2.0\query-13.2.0.jar;C:\Users\VINICIUS\.m2\repository\io\cucumber\tag-expressions\6.1.2\tag-expressions-6.1.2.jar;C:\Users\VINICIUS\.m2\repository\io\cucumber\cucumber-expressions\18.0.1\cucumber-expressions-18.0.1.jar;C:\Users\VINICIUS\.m2\repository\io\cucumber\datatable\7.22.1\datatable-7.22.1.jar;C:\Users\VINICIUS\.m2\repository\io\cucumber\cucumber-plugin\7.22.1\cucumber-plugin-7.22.1.jar;C:\Users\VINICIUS\.m2\repository\io\cucumber\docstring\7.22.1\docstring-7.22.1.jar;C:\Users\VINICIUS\.m2\repository\io\cucumber\html-formatter\21.10.1\html-formatter-21.10.1.jar;C:\Users\VINICIUS\.m2\repository\io\cucumber\junit-xml-formatter\0.7.1\junit-xml-formatter-0.7.1.jar;C:\Users\VINICIUS\.m2\repository\io\cucumber\ci-environment\10.0.1\ci-environment-10.0.1.jar;C:\Users\VINICIUS\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\VINICIUS\.m2\repository\io\cucumber\cucumber-junit-platform-engine\7.14.0\cucumber-junit-platform-engine-7.14.0.jar;C:\Users\VINICIUS\.m2\repository\org\junit\platform\junit-platform-engine\1.10.0\junit-platform-engine-1.10.0.jar;C:\Users\VINICIUS\.m2\repository\io\cucumber\cucumber-junit\7.22.1\cucumber-junit-7.22.1.jar;C:\Users\VINICIUS\.m2\repository\junit\junit\4.13.2\junit-4.13.2.jar;C:\Users\VINICIUS\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\VINICIUS\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.10.1\junit-jupiter-api-5.10.1.jar;C:\Users\VINICIUS\.m2\repository\org\opentest4j\opentest4j\1.3.0\opentest4j-1.3.0.jar;C:\Users\VINICIUS\.m2\repository\org\junit\platform\junit-platform-commons\1.10.1\junit-platform-commons-1.10.1.jar;"/>
@@ -31,7 +31,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\VINICIUS\AppData\Local\Temp\surefire7219739980021146964\surefirebooter-20250429171216122_3.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\VINICIUS\AppData\Local\Temp\surefire6791414728173996396\surefirebooter-20250430192633120_3.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="23.0.2+7-58"/>
@@ -60,12 +60,9 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="67.0"/>
   </properties>
-  <testcase name="Localidade válida Contagem" classname="validar area de cobertura" time="0.08">
-    <failure message="expected:&lt;[Motorista a caminho]&gt; but was:&lt;[Area fora de cobertura]&gt;" type="org.junit.ComparisonFailure"><![CDATA[org.junit.ComparisonFailure: expected:<[Motorista a caminho]> but was:<[Area fora de cobertura]>
-	at runner.steps.ReservaSteps.o_sistema_deve_mostrar_a_mensagem(ReservaSteps.java:39)
-	at ✽.o sistema deve mostrar a mensagem "Motorista a caminho"(file:///C:/Users/VINICIUS/Documents/NetBeansProjects/TddBdd/src/test/resources/features/Reserva.feature:9)
-]]></failure>
+  <testcase name="Localidade válida Contagem" classname="validar area de cobertura" time="0.071">
     <system-out><![CDATA[=== Step foi executado ===
+CONTAGEM
 ]]></system-out>
   </testcase>
 </testsuite>

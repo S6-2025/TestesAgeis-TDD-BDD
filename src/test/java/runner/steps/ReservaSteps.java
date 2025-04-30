@@ -25,9 +25,10 @@ public class ReservaSteps {
              this.cidadeInformado = cidade;
         }
        
-    @Quando("confirmar as informações")
+    @E("confirmar as informações")
         public void clicar_no_botao_de_login() {
-            String cidadeValida = bancoEnderecos.get(cidadeInformado);
+            String cidadeValida = bancoEnderecos.get(enderecoInformado);
+            System.out.println(cidadeValida);
         if (cidadeValida != null && cidadeValida.equals(cidadeInformado)) {
             mensagem = "Motorista a caminho";
         } else {

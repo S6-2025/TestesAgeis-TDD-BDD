@@ -1,9 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: runner.ReservaRun
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.148 s <<< FAILURE! -- in runner.ReservaRun
-validar area de cobertura.Localidade válida Contagem -- Time elapsed: 0.080 s <<< FAILURE!
-org.junit.ComparisonFailure: expected:<[Motorista a caminho]> but was:<[Area fora de cobertura]>
-	at runner.steps.ReservaSteps.o_sistema_deve_mostrar_a_mensagem(ReservaSteps.java:39)
-	at ✽.o sistema deve mostrar a mensagem "Motorista a caminho"(file:///C:/Users/VINICIUS/Documents/NetBeansProjects/TddBdd/src/test/resources/features/Reserva.feature:9)
-
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.142 s -- in runner.ReservaRun
